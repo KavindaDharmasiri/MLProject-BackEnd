@@ -8,3 +8,15 @@ Midway Travelers is a Python backend application that filters travel places base
 
 ```shell
 git clone https://github.com/your-username/midway-travelers.git
+
+
+2. Google slides:
+
+```shell
+https://docs.google.com/presentation/d/1iSgygL83SkrU5bjJkQ79aQS3OyegOO6nbzpvmk2ts9I/edit?usp=sharing
+
+
+3. ChatGpt Link:
+
+```shell
+https://shareg.pt/pjwuBiA
